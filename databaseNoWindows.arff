@@ -1,0 +1,87 @@
+@relation jAudio
+@ATTRIBUTE "Spectral Centroid Overall Average0" NUMERIC
+@ATTRIBUTE "Spectral Rolloff Point Overall Average0" NUMERIC
+@ATTRIBUTE "Spectral Flux Overall Average0" NUMERIC
+@ATTRIBUTE "Compactness Overall Average0" NUMERIC
+@ATTRIBUTE "Spectral Variability Overall Average0" NUMERIC
+@ATTRIBUTE "Root Mean Square Overall Average0" NUMERIC
+@ATTRIBUTE "Fraction Of Low Energy Windows Overall Average0" NUMERIC
+@ATTRIBUTE "Zero Crossings Overall Average0" NUMERIC
+@ATTRIBUTE "Strongest Beat Overall Average0" NUMERIC
+@ATTRIBUTE "Beat Sum Overall Average0" NUMERIC
+@ATTRIBUTE "Strength Of Strongest Beat Overall Average0" NUMERIC
+@ATTRIBUTE "LPC Overall Average0" NUMERIC
+@ATTRIBUTE "LPC Overall Average1" NUMERIC
+@ATTRIBUTE "LPC Overall Average2" NUMERIC
+@ATTRIBUTE "LPC Overall Average3" NUMERIC
+@ATTRIBUTE "LPC Overall Average4" NUMERIC
+@ATTRIBUTE "LPC Overall Average5" NUMERIC
+@ATTRIBUTE "LPC Overall Average6" NUMERIC
+@ATTRIBUTE "LPC Overall Average7" NUMERIC
+@ATTRIBUTE "LPC Overall Average8" NUMERIC
+@ATTRIBUTE "LPC Overall Average9" NUMERIC
+@ATTRIBUTE "Method of Moments Overall Average0" NUMERIC
+@ATTRIBUTE "Method of Moments Overall Average1" NUMERIC
+@ATTRIBUTE "Method of Moments Overall Average2" NUMERIC
+@ATTRIBUTE "Method of Moments Overall Average3" NUMERIC
+@ATTRIBUTE "Method of Moments Overall Average4" NUMERIC
+@ATTRIBUTE "Area Method of Moments of MFCCs Overall Average0" NUMERIC
+@ATTRIBUTE "Area Method of Moments of MFCCs Overall Average1" NUMERIC
+@ATTRIBUTE "Area Method of Moments of MFCCs Overall Average2" NUMERIC
+@ATTRIBUTE "Area Method of Moments of MFCCs Overall Average3" NUMERIC
+@ATTRIBUTE "Area Method of Moments of MFCCs Overall Average4" NUMERIC
+@ATTRIBUTE "Area Method of Moments of MFCCs Overall Average5" NUMERIC
+@ATTRIBUTE "Area Method of Moments of MFCCs Overall Average6" NUMERIC
+@ATTRIBUTE "Area Method of Moments of MFCCs Overall Average7" NUMERIC
+@ATTRIBUTE "Area Method of Moments of MFCCs Overall Average8" NUMERIC
+@ATTRIBUTE "Area Method of Moments of MFCCs Overall Average9" NUMERIC
+@ATTRIBUTE "Spectral Centroid Overall Standard Deviation0" NUMERIC
+@ATTRIBUTE "Spectral Rolloff Point Overall Standard Deviation0" NUMERIC
+@ATTRIBUTE "Spectral Flux Overall Standard Deviation0" NUMERIC
+@ATTRIBUTE "Compactness Overall Standard Deviation0" NUMERIC
+@ATTRIBUTE "Spectral Variability Overall Standard Deviation0" NUMERIC
+@ATTRIBUTE "Root Mean Square Overall Standard Deviation0" NUMERIC
+@ATTRIBUTE "Fraction Of Low Energy Windows Overall Standard Deviation0" NUMERIC
+@ATTRIBUTE "Zero Crossings Overall Standard Deviation0" NUMERIC
+@ATTRIBUTE "Strongest Beat Overall Standard Deviation0" NUMERIC
+@ATTRIBUTE "Beat Sum Overall Standard Deviation0" NUMERIC
+@ATTRIBUTE "Strength Of Strongest Beat Overall Standard Deviation0" NUMERIC
+@ATTRIBUTE "LPC Overall Standard Deviation0" NUMERIC
+@ATTRIBUTE "LPC Overall Standard Deviation1" NUMERIC
+@ATTRIBUTE "LPC Overall Standard Deviation2" NUMERIC
+@ATTRIBUTE "LPC Overall Standard Deviation3" NUMERIC
+@ATTRIBUTE "LPC Overall Standard Deviation4" NUMERIC
+@ATTRIBUTE "LPC Overall Standard Deviation5" NUMERIC
+@ATTRIBUTE "LPC Overall Standard Deviation6" NUMERIC
+@ATTRIBUTE "LPC Overall Standard Deviation7" NUMERIC
+@ATTRIBUTE "LPC Overall Standard Deviation8" NUMERIC
+@ATTRIBUTE "LPC Overall Standard Deviation9" NUMERIC
+@ATTRIBUTE "Method of Moments Overall Standard Deviation0" NUMERIC
+@ATTRIBUTE "Method of Moments Overall Standard Deviation1" NUMERIC
+@ATTRIBUTE "Method of Moments Overall Standard Deviation2" NUMERIC
+@ATTRIBUTE "Method of Moments Overall Standard Deviation3" NUMERIC
+@ATTRIBUTE "Method of Moments Overall Standard Deviation4" NUMERIC
+@ATTRIBUTE "Area Method of Moments of MFCCs Overall Standard Deviation0" NUMERIC
+@ATTRIBUTE "Area Method of Moments of MFCCs Overall Standard Deviation1" NUMERIC
+@ATTRIBUTE "Area Method of Moments of MFCCs Overall Standard Deviation2" NUMERIC
+@ATTRIBUTE "Area Method of Moments of MFCCs Overall Standard Deviation3" NUMERIC
+@ATTRIBUTE "Area Method of Moments of MFCCs Overall Standard Deviation4" NUMERIC
+@ATTRIBUTE "Area Method of Moments of MFCCs Overall Standard Deviation5" NUMERIC
+@ATTRIBUTE "Area Method of Moments of MFCCs Overall Standard Deviation6" NUMERIC
+@ATTRIBUTE "Area Method of Moments of MFCCs Overall Standard Deviation7" NUMERIC
+@ATTRIBUTE "Area Method of Moments of MFCCs Overall Standard Deviation8" NUMERIC
+@ATTRIBUTE "Area Method of Moments of MFCCs Overall Standard Deviation9" NUMERIC
+@ATTRIBUTE "Area Moments: Area Method of Moments of MFCCs0" NUMERIC
+@ATTRIBUTE "Area Moments: Area Method of Moments of MFCCs1" NUMERIC
+@ATTRIBUTE "Area Moments: Area Method of Moments of MFCCs2" NUMERIC
+@ATTRIBUTE "Area Moments: Area Method of Moments of MFCCs3" NUMERIC
+@ATTRIBUTE "Area Moments: Area Method of Moments of MFCCs4" NUMERIC
+@ATTRIBUTE "Area Moments: Area Method of Moments of MFCCs5" NUMERIC
+@ATTRIBUTE "Area Moments: Area Method of Moments of MFCCs6" NUMERIC
+@ATTRIBUTE "Area Moments: Area Method of Moments of MFCCs7" NUMERIC
+@ATTRIBUTE "Area Moments: Area Method of Moments of MFCCs8" NUMERIC
+@ATTRIBUTE "Area Moments: Area Method of Moments of MFCCs9" NUMERIC
+@ATTRIBUTE "FileName" {augusta.wav,test.wav}
+@DATA
+1.825E1,1.149E-1,3.763E-3,1.554E3,3.563E-3,1.415E-1,6.288E-1,4.095E1,1.808E2,5.795E2,1.134E-2,-9.322E-1,5.5E-1,-1.372E-1,-1.082E-1,1.027E-1,-1.295E-2,-4.877E-4,9.402E-2,8.723E-2,0E0,3.309E-1,4.395E1,2.698E3,2.714E5,5.018E7,-1.135E3,6.082E3,1.449E2,-4.927E7,-1.214E6,-2.802E4,8.984E11,1.094E7,2.721E5,1.308E7,1.336E1,9.943E-2,9.499E-3,2.351E2,3.865E-3,1.479E-1,9.051E-2,2.563E1,5.396E1,4.149E2,2.03E-3,1.059E-1,2.507E-1,2.291E-1,1.807E-1,1.484E-1,1.377E-1,1.106E-1,1.403E-1,1.273E-1,0E0,3.311E-1,1.324E1,8.861E2,8.316E4,1.501E7,4.703E2,3.51E3,9.605E1,4.407E7,1.154E6,2.965E4,1.019E12,1.041E7,2.773E5,1.861E7,2.427E15,2.17E3,6E0,1.947E5,-2.024E-2,-3.545E-4,-9.015E7,5.651E7,1.563E5,1.899E-3,augusta.wav
+1.681E1,1.029E-1,9.476E-4,1.621E3,3.252E-3,1.288E-1,5.526E-1,4.709E1,2.199E2,4.6E2,9.803E-3,-9.328E-1,2.732E-1,-9.275E-3,6.07E-2,-2.295E-2,3.706E-2,9.484E-4,2.82E-2,1.553E-2,0E0,3.126E-1,4.971E1,3.678E3,3.365E5,6.406E7,-1.024E3,1.646E4,5.13E2,-2.77E8,-8.633E6,-2.619E5,9.522E12,7.781E7,2.429E6,2.78E8,1.447E1,1.139E-1,1.308E-3,1.609E2,1.611E-3,5.971E-2,7.295E-2,3.251E1,5.5E0,2.593E2,7.989E-4,1.06E-1,3.456E-1,2.61E-1,1.597E-1,1.302E-1,1.294E-1,1.13E-1,1.118E-1,1.017E-1,0E0,1.48E-1,1.844E1,1.479E3,1.385E5,2.513E7,1.599E2,2.489E3,8.041E1,8.211E7,2.615E6,8.335E4,4.136E12,2.358E7,7.662E5,1.331E8,1.825E16,1.205E3,6E0,2.65E5,-6.471E-3,6.499E-6,-7.13E7,1.741E7,8.673E4,1.591E-3,test.wav
